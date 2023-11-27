@@ -6,8 +6,8 @@
 
 **Description:**
 
-A cryptomining pool with the goals of no centralization, no emission footprint or conventional fees
-for low-emission miners, and no performance compromise.
+A cryptomining pool with the goals of no centralization, no emission footprint, and no performance
+compromise.
 
 **URL:** https://nopool.com/
 
