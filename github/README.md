@@ -20,3 +20,5 @@ performance compromise.
 **Profile picture:**
 
 ![Profile](profile.png)
+
+_Copyright 2023– Massive Computing, Inc. Some rights reserved._
