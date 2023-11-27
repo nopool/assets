@@ -1,6 +1,6 @@
 # ![NoPool](doc/nopool.png)
 
-[NoPool](https://nopool.com/) is a cryptomining pool with
+[NoPool](https://nopool.com/) is a reference mining pool with
 [Kadena support](https://github.com/kadena-io) and the goals of:
 
 1. no centralization,
