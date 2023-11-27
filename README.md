@@ -1,4 +1,4 @@
-# ![NoPool](nopool.png)
+# ![NoPool](doc/nopool.png)
 
 [NoPool](https://nopool.com/) is a cryptomining pool with
 [Kadena support](https://github.com/kadena-io) and the goals of:
@@ -11,7 +11,7 @@
 
 Copyright 2022– Massive Computing, Inc.
 
-![Creative Commons](cc.svg) ![Attribution](by.svg)
+![Creative Commons](doc/cc.svg) ![Attribution](doc/by.svg)
 
 This content, excluding the brand features identified in the [Exceptions](#exceptions) below, is
 licensed under a
