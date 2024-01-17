@@ -2,7 +2,7 @@
 
 **Description:**
 
-Chainweb is a parallel-chain proof-of-work consensus mechanism that’s capable of massive throughput.
+Chainweb is a parallelized proof-of-work consensus mechanism that’s designed for massive throughput.
 
 **Website:** https://github.com/kadena-io/chainweb-node
 
