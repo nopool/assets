@@ -8,9 +8,8 @@ Chainweb is a parallelized proof-of-work consensus mechanism that’s designed f
 
 **Topics:**
 
-`macos` `linux` `yaml` `rocksdb` `security` `documentation`
-`json` `haskell` `sql` `nosql` `rest-api` `sqlite` `blockchain`
-`parallel` `mining` `cryptocurrency` `proof-of-work` `kadena`
-`massive` `chainweb`
+`blockchain` `chainweb` `cryptocurrency` `documentation` `haskell` `json` `kadena` `linux` `macos`
+`massive` `mining` `nosql` `parallel` `proof-of-work` `rest-api` `rocksdb` `security` `sql` `sqlite`
+`yaml`
 
 _Copyright 2022– Massive Computing, Inc. Some rights reserved._
