@@ -19,5 +19,5 @@ licensed under a
 
 ## Exceptions
 
-The NoPool logos, trademarks, domain names, and other brand features used in this content cannot be
-reused without permission and no license is granted thereto.
+The NoPool and Massive logos, trademarks, domain names, and other brand features used in this
+content cannot be reused without permission and no license is granted thereto.
